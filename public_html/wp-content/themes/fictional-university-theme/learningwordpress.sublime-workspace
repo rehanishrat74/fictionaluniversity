@@ -1,0 +1,1021 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sanitize_text_f",
+				"sanitize_text_field\tWP Function"
+			],
+			[
+				"add_short",
+				"add_shortcode\tWP Function"
+			],
+			[
+				"the_gu",
+				"the_guid\tWP Function"
+			],
+			[
+				"get_post_field",
+				"get_post_field\tWP Function"
+			],
+			[
+				"sanitize_text",
+				"sanitize_text_field\tWP Filter Name"
+			],
+			[
+				"get_post_type",
+				"get_post_type\tWP Function"
+			],
+			[
+				"is_user",
+				"is_user_logged_in\tWP Function"
+			],
+			[
+				"current_user",
+				"current_user_can\tWP Function"
+			],
+			[
+				"current",
+				"currentLikeBox"
+			],
+			[
+				"count_",
+				"count_user_posts\tWP Function"
+			],
+			[
+				"THIS",
+				"thisNote"
+			],
+			[
+				"MAKE",
+				"makeNoteReadOnly"
+			],
+			[
+				"make",
+				"makeNoteEditable"
+			],
+			[
+				"this",
+				"thisNote"
+			],
+			[
+				"the_ID",
+				"the_ID\tWP Function"
+			],
+			[
+				"wp_create_no",
+				"wp_create_nonce\tWP Function"
+			],
+			[
+				"de",
+				"deleteNote"
+			],
+			[
+				"add_fil",
+				"add_filter\tWP Function"
+			],
+			[
+				"wp_en",
+				"wp_enqueue_style\tWP Function"
+			],
+			[
+				"login_heade",
+				"login_headerurl\tWP Filter Name"
+			],
+			[
+				"wp_registraion",
+				"wp_registration_url\tWP Function"
+			],
+			[
+				"wp_login",
+				"wp_login_url"
+			],
+			[
+				"show_ad",
+				"show_admin_bar\tWP Function"
+			],
+			[
+				"wp_get_curr",
+				"wp_get_current_user"
+			],
+			[
+				"get_current_user",
+				"get_current_user_id\tWP Function"
+			],
+			[
+				"wp_log",
+				"wp_logout_url"
+			],
+			[
+				"get_search",
+				"get_search_form\tWP Function"
+			],
+			[
+				"esc_",
+				"esc_html"
+			],
+			[
+				"get_search_",
+				"get_search_query"
+			],
+			[
+				"meta_q",
+				"WP_Meta_Query\tWP Class Name"
+			],
+			[
+				"$quer",
+				"$query_relation_program_professor"
+			],
+			[
+				"professor",
+				"professorLandscape"
+			],
+			[
+				"get_the_post",
+				"get_the_post_thumbnail\tWP Function"
+			],
+			[
+				"r",
+				"root_url"
+			],
+			[
+				"resu",
+				"resultsDiv"
+			],
+			[
+				"univer",
+				"universityData"
+			],
+			[
+				"get",
+				"getJSON"
+			],
+			[
+				"WP_REST",
+				"WP_REST_Server\tWP Class Name"
+			],
+			[
+				"register_rest_route",
+				"register_rest_route\tWP Function"
+			],
+			[
+				"register_rest",
+				"register_rest_route\tWP Function"
+			],
+			[
+				"getRe",
+				"getResultsSearchByPostsOnly"
+			],
+			[
+				"add",
+				"addSearchHTML"
+			],
+			[
+				"res",
+				"resultsDiv"
+			],
+			[
+				"previo",
+				"previousValue"
+			],
+			[
+				"is",
+				"isSpinnerVisible"
+			],
+			[
+				"sp",
+				"isSpinnerVisible"
+			],
+			[
+				"ty",
+				"typingTimer"
+			],
+			[
+				"sear",
+				"searchField"
+			],
+			[
+				"clo",
+				"closeOverlay"
+			],
+			[
+				"key",
+				"keyCode"
+			],
+			[
+				"close",
+				"closeOverlay"
+			],
+			[
+				"open",
+				"openOverlay"
+			],
+			[
+				"wp_reset",
+				"wp_reset_postdata\tWP Function"
+			],
+			[
+				"get_template",
+				"get_template_part"
+			],
+			[
+				"get_templa",
+				"get_template_part"
+			],
+			[
+				"get_the_archive",
+				"get_the_archive_description"
+			],
+			[
+				"page_banner",
+				"page_banner_background_image"
+			],
+			[
+				"the_post_thum",
+				"the_post_thumbnail_url"
+			],
+			[
+				"the_post",
+				"the_post_thumbnail"
+			],
+			[
+				"get_the_perma",
+				"get_the_permalink\tWP Function"
+			],
+			[
+				"get_the_titl",
+				"get_the_title\tWP Function"
+			],
+			[
+				"get_the_ex",
+				"get_the_excerpt\tWP Function"
+			],
+			[
+				"has_ex",
+				"has_excerpt\tWP Function"
+			],
+			[
+				"the_exce",
+				"the_excerpt\tWP Function"
+			],
+			[
+				"the_ex",
+				"the_excerpt\tWP Function"
+			],
+			[
+				"get_post_type_arch",
+				"get_post_type_archive_link\tWP Function"
+			],
+			[
+				"get_post_type_ar",
+				"get_post_type_archive_link\tWP Function"
+			],
+			[
+				"posts_per",
+				"edit_posts_per_page\tWP Filter Name"
+			],
+			[
+				"register_post",
+				"register_post_type\tWP Function"
+			],
+			[
+				"wp_reset_po",
+				"wp_reset_postdata\tWP Function"
+			],
+			[
+				"wp_trim",
+				"wp_trim_words\tWP Function"
+			],
+			[
+				"the_archive",
+				"the_archive_description\tWP Function"
+			],
+			[
+				"the_ar",
+				"the_archive_title\tWP Function"
+			],
+			[
+				"the_author",
+				"the_author\tWP Function"
+			],
+			[
+				"single",
+				"single_cat_title"
+			],
+			[
+				"site",
+				"site_url\tWP Function"
+			],
+			[
+				"pagina",
+				"paginate_links\tWP Function"
+			],
+			[
+				"get_the_category_",
+				"get_the_category_list\tWP Function"
+			],
+			[
+				"the_author_posts_",
+				"the_author_posts_link\tWP Function"
+			],
+			[
+				"the_au",
+				"the_author_posts"
+			],
+			[
+				"the_per",
+				"the_permalink\tWP Function"
+			],
+			[
+				"the_p",
+				"the_post"
+			],
+			[
+				"wp_get_post",
+				"wp_get_post_parent_id"
+			],
+			[
+				"register_n",
+				"register_nav_menu\tWP Function"
+			],
+			[
+				"menu",
+				"menu_order\tWP Filter Name"
+			],
+			[
+				"wp_list",
+				"wp_list_pages"
+			],
+			[
+				"add_them",
+				"add_theme_support"
+			],
+			[
+				"get_foo",
+				"get_footer\tWP Function"
+			],
+			[
+				"get_theme_file",
+				"get_theme_file_uri"
+			],
+			[
+				"get_style",
+				"get_stylesheet_uri"
+			],
+			[
+				"wp_enqu",
+				"wp_enqueue_style"
+			],
+			[
+				"wp_enq",
+				"wp_enqueue_scripts\tWP Function"
+			],
+			[
+				"$sub",
+				"$submitted"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"padd",
+				"padding-right\tproperty"
+			],
+			[
+				"border",
+				"border-top\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"padding",
+				"padding-right\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"border-",
+				"border-color\tproperty"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"bor",
+				"border-color\tproperty"
+			],
+			[
+				"print",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "info/1-wordpressinfo.php",
+			"settings":
+			{
+				"buffer_size": 37081,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "info/5-pageWorkingWithChildPages.php",
+			"settings":
+			{
+				"buffer_size": 505,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "functions.php",
+			"settings":
+			{
+				"buffer_size": 14226,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nWordPress Completions\n---------------------\n\n  Version 5.1.0+1.0\n  -----------------------------------------\n  \n  WordPress 5.1\n\n  Version 5.0.3+1.0\n  -----------------------------------------\n  \n  WordPress 5.0.3\n\n  Version 5.0.1+1.0\n  -----------------------------------------\n  \n  WordPress 5.0.1\n",
+			"settings":
+			{
+				"buffer_size": 351,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 90.0,
+		"history":
+		[
+			"menu",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/index.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/941-deployhq.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/943-automatic updates.txt",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/940-repository.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/939-LiveFreehostingAccount.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/947-virtual box and vagrant.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/934-traditionalSearch.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/911-installgulp.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/946-flywheel and vagrant setup.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/945 js query.com.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/functions.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/page.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/944-custom-query-variables and form parameters.php",
+		"/var/www/amazingcollege/public_html/wp-content/plugins/my-first-amazing-plugin/my-first-amazing-plugin.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/942 Challenge making slide option dynamic.php",
+		"/var/www/amazingcollege/public_html/wp-content/mu-plugins/university-post-types.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/single-program.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/single-program_relationship2with_professors.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/single-program_relationship1with_events.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/template-parts/content-slider.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/front-page.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/1-wordpressinfo.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/942 making slide option dynamic.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/single-professor.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/js/scripts.js",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/js/modules/Like.js",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/inc/like-route.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/938b-HeartLikes-click-event.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/page-my-notes.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/style.css",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/938-HeartLikes.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/926-Json and template literal.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/js/modules/MyNotes.js",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/937-setting up permissions for rest api.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/936d-mynotes-onfly.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/936-mynotes.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/936c-mynotes-css.css",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/936b-mynotes js blueprint.js",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/js/modules/Search.js",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/header.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/935-userpermissions.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/search.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/page-search.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/searchform.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/template-parts/content-page.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/template-parts/content-campus.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/template-parts/content-event.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/template-parts/content-post.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/template-parts/content-professor.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/template-parts/content-program.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/inc/search-route.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/SearchTemp.js.txt",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/925-liveSearch.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/933-finalyzing search overlay.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/932-search-routeV2professorRelationship.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/931-customRestApi with relational Search.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/930-search layout for customRestApi.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/926b-json and ternary operator.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/926c-optimizing search overlay.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/926d-search overlay-withSyncAndAsync.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/927-customizingRestApi.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/928-creatingCustomRestAPI.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/928b-search-routeV1.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/css/modules/search-overlay.css",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/footer.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/924-maponfrontend.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/single-campus_relationship1with_programs.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/archive-campus.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/single-campus.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/archive-program.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/923-campuses and googlemap.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/922-consolidateEvents.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/page-past-events.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/archive-event.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/921-pageBanner.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/single.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/single-event.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/archiveTitleByType.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/archive.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/920-featured-images.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/919-professor_post.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/918-archive-program.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/917-past events.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/916b-manipulating default url based query.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/916-customfields.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/915-excerpt.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/914b-customPostTypes-loading events.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/914-customPostTypes.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/913-workflow automation stepbystep.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/912b-workflowCssAutomation.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/912-workflowautomation.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/910. Display blog over front-page.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/9.3-archive.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/9.2-blog-continue.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/9-blog.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/8b-creating static menu.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/8- creating dynamic menu.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/7-mobile device compatibility.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/6-page_Menue-link-to-the-childpages.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/5-pageWorkingWithChildPages.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/4-page.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/3-pagePostSampleInfo.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/2-htmlTowp.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/info/1.2-phplesson.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/1-wordpressinfo.txt",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/914b-customPostTypes-loading events.info",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/914-customPostTypes.info",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/913-workflow automation stepbystep.info",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/css/style.css",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/css/modules/headline.css",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/912b-workflowCssAutomation.info",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/912-workflowautomation.info",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/911-installgulp.info",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/910. Display blog over front-page",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/1.2-phplesson.info",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/front-pageWithStatic Html.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/9.3-archive.info",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/9.2-blog-continue.info",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/9-blog.info",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/9-blog-continue.info",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/8b-creating static menu",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/8- creating dynamic menu",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/headerPageWithDynamicMenu.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/footerPageWithDynamicMenu.php",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/7-mobile device compatibility.info",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/6-page_Menue-link-to-the-childpages.info",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/5-pageWorkingWithChildPages.info",
+		"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/2-htmlTowp.info"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme",
+			"/var/www/amazingcollege/public_html/wp-content/themes/fictional-university-theme/css",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"filter",
+			"migrate",
+			"plugin",
+			"print_r",
+			"esc_html",
+			"esc",
+			"sanitize",
+			"field",
+			"get_the_",
+			"professor",
+			"banner",
+			"plugins",
+			"java",
+			"like-count",
+			"map",
+			"edit",
+			"pageBanner",
+			"plugin",
+			"authorName",
+			"field",
+			"get_theme_file_path",
+			"result",
+			"search-overlay",
+			"openButton",
+			"js-search-trigger",
+			"js",
+			"search",
+			"js-search-trigger",
+			"js-search",
+			"marker",
+			"blog",
+			"archiveTitleByType.php",
+			"html",
+			"professor-card",
+			"professor-card__list-item",
+			"professor-cards",
+			"group",
+			"row",
+			"generic-content",
+			"headline",
+			"section-break",
+			".htaccess",
+			"headline",
+			"event-summary__content",
+			"bloginfo ('name')",
+			"metabox",
+			"meta-box",
+			"container--narrow"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "info/1-wordpressinfo.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 37081,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36661,
+								36661
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 17123.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "info/5-pageWorkingWithChildPages.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 505,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "functions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14226,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4146,
+								4146
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1311.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 351,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								351,
+								351
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 120.0
+	},
+	"pinned_build_system": "",
+	"project": "learningwordpress.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/var/www/wordpress/wp-content/themes/learningwordpress2/lwp2.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"16":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"20":
+				{
+					"group": 0,
+					"index": 1
+				},
+				"21":
+				{
+					"group": 0,
+					"index": 2
+				},
+				"22":
+				{
+					"group": 0,
+					"index": 5
+				},
+				"39":
+				{
+					"group": 0,
+					"index": 3
+				},
+				"70":
+				{
+					"group": 0,
+					"index": 4
+				},
+				"77":
+				{
+					"group": 0,
+					"index": 6
+				},
+				"78":
+				{
+					"group": 0,
+					"index": 7
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 307.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

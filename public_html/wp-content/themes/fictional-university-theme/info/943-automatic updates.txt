@@ -1,0 +1,14 @@
+add_filter''('allow_dev_auto_core_updates','__return_true'); // Enable development updates
+
+add_filter('allow_minor_auto_core_updates','__return_true'); // Enable minor updates
+
+add_filter('allow_major_auto_core_updates','__return_true'); // Enable major updates
+
+// for disabling, use false instead of true.
+
+to enable automaitc updtes even if a vcs folder(.git,.hg,.svn etc)
+add_filter('automatic_updtes_is_vcs_checkout','__return_false',1);
+
+
+only put theme folder within the version control over bitbucket.org.
+when you first create your repo you could initialze it within your theme folder. Also, our .gitignore file can be used to ignore WordPress system files and folders.
